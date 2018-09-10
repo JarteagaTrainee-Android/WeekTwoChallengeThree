@@ -20,7 +20,7 @@
         app:layout_constraintVertical_bias="0.0" />
 
     <CheckBox
-        android:id="@+id/radioButton1"
+        android:id="@+id/Checkbox1"
         android:layout_width="match_parent"
         android:layout_height="40dp"
         android:layout_marginEnd="8dp"
@@ -31,7 +31,7 @@
         app:layout_constraintTop_toBottomOf="@+id/textViewTitle" />
 
     <CheckBox
-        android:id="@+id/radioButton2"
+        android:id="@+id/CheckBox2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginEnd="8dp"
@@ -40,10 +40,10 @@
         android:text="CheckBox"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/radioButton1" />
+        app:layout_constraintTop_toBottomOf="@+id/Checkbox1" />
 
     <CheckBox
-        android:id="@+id/radioButton3"
+        android:id="@+id/Checkbox3"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginEnd="8dp"
@@ -52,19 +52,29 @@
         android:text="CheckBox"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/radioButton2" />
+        app:layout_constraintTop_toBottomOf="@+id/CheckBox2" />
 
     <CheckBox
-        android:id="@+id/radioButton4"
+        android:id="@+id/Checkbox4"
         android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:text="CheckBox"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/Checkbox3" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginBottom="8dp"
         android:layout_marginEnd="8dp"
-        android:layout_marginStart="8dp"
         android:layout_marginTop="8dp"
-        android:text="CheckBox"
+        android:text="@string/validate"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/radioButton3" />
+        app:layout_constraintTop_toBottomOf="@+id/Checkbox4" />
 </android.support.constraint.ConstraintLayout>

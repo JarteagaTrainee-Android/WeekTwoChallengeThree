@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">WeekTwoChallengeThree</string>
+    <string name="validate">Validar</string>
+    <string name="Correct_answer">Respuesta Correcta</string>
 </resources>
