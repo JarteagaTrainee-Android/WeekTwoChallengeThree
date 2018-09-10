@@ -1,11 +1,11 @@
 <resources>
     <string name="app_name">QUIZ APP</string>
-    <string name="validate">Validar</string>
-    <string name="correct_answer">Respuesta Correcta</string>
-    <string name="wrong_answer">Respuesta Incorrecta</string>
+    <string name="validate">Check</string>
+    <string name="correct_answer">Correct Answer</string>
+    <string name="wrong_answer">Incorrect Answer</string>
 
 
-    <string name="question_1">De que color era el caballo blanco?</string>
+    <string name="question_1">What color was the white Horse?</string>
     <string name="option_1_question1">Rojo</string>
     <string name="option_2_question1">Blanco</string>
     <string name="option_3_question1">Azul</string>
@@ -13,20 +13,20 @@
 
 
 
-    <string name="question_2">Resultado: 8 </string>
+    <string name="question_2">Result: 8 </string>
     <string name="option_1_question2">2+2</string>
     <string name="option_2_question2">4+4</string>
     <string name="option_3_question2">6+2</string>
     <string name="option_4_question2">10-2</string>
 
-    <string name="question_3">Quien mato a krilin</string>
+    <string name="question_3">How killed krilin</string>
     <string name="option_1_question3">Frezzer</string>
     <string name="option_2_question3">Majin</string>
     <string name="option_3_question3">Piccolo</string>
     <string name="option_4_question3">Goku</string>
 
 
-    <string name="question_4">Si, F=MA, A= ? </string>
+    <string name="question_4">if, F=MA then A= ? </string>
     <string name="option_1_question4">Newtons</string>
     <string name="option_2_question4">A=A/F</string>
     <string name="option_3_question4">A=M/F</string>
@@ -41,16 +41,16 @@
     <string name="question_6">True and false = </string>
     <string name="option_1_question6">True</string>
     <string name="option_2_question6">False</string>
-    <string name="option_3_question6">Indeterminado</string>
+    <string name="option_3_question6">Indeterminate</string>
     <string name="option_4_question6">NULL</string>
 
     <string name="question_7">True or False</string>
     <string name="option_1_question7">True</string>
     <string name="option_2_question7">False</string>
-    <string name="option_3_question7">Indeterminado</string>
+    <string name="option_3_question7">Indeterminate</string>
     <string name="option_4_question7">NULL</string>
 
-    <string name="question_8">Donde venden pizza de jamon?</string>
+    <string name="question_8">Where you can buy Ham Pizza?</string>
     <string name="option_1_question8">Pizza Hut</string>
     <string name="option_2_question8">Papa Jhones</string>
     <string name="option_3_question8">La Pizzeria</string>
